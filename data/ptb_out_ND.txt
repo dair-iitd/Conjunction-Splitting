@@ -1,0 +1,274 @@
+1.
+Influential members of the House [D1] [SS] Ways [ES] and [SS] Means [ES] [D1]  Committee introduced legislation that would restrict how the new savings-and-loan bailout agency can raise capital , creating another potential obstacle to the government 's sale of sick thrifts .
+---------
+Influential members of the House Ways Committee introduced legislation that would restrict how the new savings-and-loan bailout agency can raise capital , creating another potential obstacle to the government 's sale of sick thrifts .
+Influential members of the House Means Committee introduced legislation that would restrict how the new savings-and-loan bailout agency can raise capital , creating another potential obstacle to the government 's sale of sick thrifts .
+ND (single entity)
+====================================================
+8.
+That secrecy leads to a proposal like the one from [D1] [SS] Ways [ES] and [SS] Means [ES] [D1]  , which seems to me sort of draconian , he said .
+---------
+That secrecy leads to a proposal like the one from Ways , which seems to me sort of draconian , he said .
+That secrecy leads to a proposal like the one from Means , which seems to me sort of draconian , he said .
+ND (single entity)
+====================================================
+9.
+The [D1] [SS] Ways [ES] and [SS] Means [ES] [D1]  Committee will hold a hearing on the bill next Tuesday .
+---------
+The Ways Committee will hold a hearing on the bill next Tuesday .
+The Means Committee will hold a hearing on the bill next Tuesday .
+ND (single entity)
+====================================================
+16.
+Today 's Fidelity ad goes a step further , encouraging investors [D1] [SS] to stay in the market [ES] or [SS] even to plunge in with Fidelity [ES] [D1]  .
+---------
+Today 's Fidelity ad goes a step further , encouraging investors to stay in the market .
+Today 's Fidelity ad goes a step further , encouraging investors even to plunge in with Fidelity .
+ND (consequent OR)
+====================================================
+17.
+In the aftermath of the 1987 debacle , the brokerage firm began taping commercials in-house , ultimately getting its timing down fast enough to [D1] [SS] tape a commercial after the market closed [ES] and [SS] rush it on the air that night [ES] [D1]  .
+---------
+In the aftermath of the 1987 debacle , the brokerage firm began taping commercials in-house , ultimately getting its timing down fast enough to tape a commercial after the market closed .
+In the aftermath of the 1987 debacle , the brokerage firm began taping commercials in-house , ultimately getting its timing down fast enough to rush it on the air that night .
+ND (relation does not allow splitting)
+====================================================
+18.
+We 're saying the worst thing that anyone can do is to see the market [D1] [SS] go down [ES] and [SS] dump everything [ES] [D1]  , which just drives the prices down further , says John Lampe , PaineWebber 's director of advertising .
+---------
+We 're saying the worst thing that anyone can do is to see the market go down , which just drives the prices down further , says John Lampe , PaineWebber 's director of advertising .
+We 're saying the worst thing that anyone can do is to see the market dump everything , which just drives the prices down further , says John Lampe , PaineWebber 's director of advertising .
+ND (relation does not allow splitting)
+====================================================
+22.
+Mr. Eskandarian , who resigned his Della Femina post in September , becomes [D1] [SS] chairman [ES] and [SS] chief executive [ES] [D1]  of Arnold .
+---------
+Mr. Eskandarian , who resigned his Della Femina post in September , becomes chairman of Arnold .
+Mr. Eskandarian , who resigned his Della Femina post in September , becomes chief executive of Arnold .
+ND (relation does not allow splitting)
+====================================================
+27.
+The team that dumped runs by the bushel on the Chicago Cubs in the National League playoffs was held to just one in two games by the home-team Oakland A 's , the gang that had been done unto similarly by [D1] [SS] the Los Angeles Dodgers [ES] and [SS] Orel Hershiser [ES] [D1]  in last year 's tournament .
+---------
+The team that dumped runs by the bushel on the Chicago Cubs in the National League playoffs was held to just one in two games by the home-team Oakland A 's , the gang that had been done unto similarly by the Los Angeles Dodgers in last year 's tournament .
+The team that dumped runs by the bushel on the Chicago Cubs in the National League playoffs was held to just one in two games by the home-team Oakland A 's , the gang that had been done unto similarly by Orel Hershiser in last year 's tournament .
+ND - (relation does not allow splitting) (two party relation)
+====================================================
+29.
+If you [D1] [SS] get your pitch [ES] , and [SS] take a good swing [ES] [D1]  , anything can happen , he later remarked .
+---------
+If you get your pitch , anything can happen , he later remarked .
+If you take a good swing , anything can happen , he later remarked .
+ND (A and B => C)
+====================================================
+30.
+On Saturday night , quite a few of the boys in [D1] [SS] green [ES] and [SS] gold [ES] [D1]  salted away successes to salve the pain of [D1] [SS] past [ES] and , no doubt , [SS] future [ES] [D1]  droughts .
+---------
+On Saturday night , quite a few of the boys in green salted away successes to salve the pain of past droughts .
+On Saturday night , quite a few of the boys in green salted away successes to salve the pain of doubt [SS] future droughts .
+On Saturday night , quite a few of the boys in gold salted away successes to salve the pain of past droughts .
+On Saturday night , quite a few of the boys in gold salted away successes to salve the pain of doubt [SS] future droughts .
+ND - green and gold means Australian sports team (single entity)
+DIST - past and futures - DISC
+====================================================
+33.
+The same goes for Mike Moore , another veteran who overcame early struggles to permit the Giants but [D1] [SS] a run [ES] and [SS] four hits [ES] [D1]  in seven innings in Sunday 's contest .
+---------
+The same goes for Mike Moore , another veteran who overcame early struggles to permit the Giants but a run in seven innings in Sunday 's contest .
+The same goes for Mike Moore , another veteran who overcame early struggles to permit the Giants but four hits in seven innings in Sunday 's contest .
+ND (single entity)
+====================================================
+37.
+I [D1] [SS] 'm for the Giants today [ES] , but [SS] only because they lost yesterday [ES] [D1]  .
+---------
+I 'm for the Giants today .
+I only because they lost yesterday .
+ND (relation does not allow splitting)
+====================================================
+38.
+The above represents a triumph of either [D1] [SS] apathy [ES] or [SS] civility [ES] [D1]  .
+---------
+The above represents a triumph of either apathy .
+The above represents a triumph of either civility .
+ND (either-or)
+====================================================
+39.
+I choose to believe it 's the latter , although it probably springs from the fact that just about everyone out here , including the [D1] [SS] A 's [ES] and [SS] Giants [ES] [D1]  , is originally from somewhere else .
+---------
+I choose to believe it 's the latter , although it probably springs from the fact that just about everyone out here , including the A 's , is originally from somewhere else .
+I choose to believe it 's the latter , although it probably springs from the fact that just about everyone out here , including the Giants , is originally from somewhere else .
+ND (single entity)
+====================================================
+41.
+In the opening game , besides [D1] [SS] Steinbach [ES] and [SS] Stewart [ES] [D1]  , there was Walt Weiss , a twiggy-looking , second-year shortstop who had lost a couple months of the season to knee surgery .
+---------
+In the opening game , besides Steinbach , there was Walt Weiss , a twiggy-looking , second-year shortstop who had lost a couple months of the season to knee surgery .
+In the opening game , besides Stewart , there was Walt Weiss , a twiggy-looking , second-year shortstop who had lost a couple months of the season to knee surgery .
+ND (single entity)
+====================================================
+44.
+The cold guys in the set were [D1] [SS] Will Clark [ES] , [SS] Kevin Mitchell [ES] and [SS] Matt Williams [ES] [D1]  , the Giants ' 3-4-5 hitters .
+---------
+The cold guys in the set were Will Clark , the Giants ' 3-4-5 hitters .
+The cold guys in the set were Kevin Mitchell , the Giants ' 3-4-5 hitters .
+The cold guys in the set were Matt Williams , the Giants ' 3-4-5 hitters .
+ND (single entity)
+====================================================
+45.
+They combined for [D1] [SS] 25 hits [ES] , [SS] six home runs [ES] and [SS] 24 runs batted in [ES] [D1]  in the five games against the Cubs .
+---------
+They combined for 25 hits in the five games against the Cubs .
+They combined for six home runs in the five games against the Cubs .
+They combined for 24 runs batted in in the five games against the Cubs .
+ND (single entity)
+====================================================
+48.
+NCR said revenue declined both [D1] [SS] in the U.S. [ES] and [SS] overseas [ES] [D1]  , reflecting a world-wide softening of the computer markets .
+---------
+NCR said revenue declined both in the U.S. , reflecting a world-wide softening of the computer markets .
+NCR said revenue declined both overseas , reflecting a world-wide softening of the computer markets .
+ND (A and B => C)
+====================================================
+55.
+Steve Clark , a Shearson Lehman Hutton Inc. trader , reported for work at 5 a.m. , [D1] [SS] two [ES] and [SS] a half [ES] [D1]  hours before the usual Monday morning strategy meeting .
+---------
+Steve Clark , a Shearson Lehman Hutton Inc. trader , reported for work at 5 a.m. , two hours before the usual Monday morning strategy meeting .
+Steve Clark , a Shearson Lehman Hutton Inc. trader , reported for work at 5 a.m. , a half hours before the usual Monday morning strategy meeting .
+ND (single entity)
+====================================================
+58.
+Tokyo stocks closed off a [D1] [SS] significant [ES] but [SS] less-than-alarming [ES] [D1]  1.8 % on thin volume ; Hong Kong stocks declined 6.5 % in orderly trading .
+---------
+Tokyo stocks closed off a significant 1.8 % on thin volume ; Hong Kong stocks declined 6.5 % in orderly trading .
+Tokyo stocks closed off a less-than-alarming 1.8 % on thin volume ; Hong Kong stocks declined 6.5 % in orderly trading .
+ND (combination has different meaning with but)
+====================================================
+68.
+As 2:30 p.m. -- Wall Street 's opening time -- neared , Shearson [D1] [SS] traders [ES] and [SS] salesmen [ES] [D1]  traded bets on how low the New York market would open .
+---------
+As 2:30 p.m. -- Wall Street 's opening time -- neared , Shearson traders traded bets on how low the New York market would open .
+As 2:30 p.m. -- Wall Street 's opening time -- neared , Shearson salesmen traded bets on how low the New York market would open .
+ND (single entity)
+====================================================
+75.
+The collapsed plan to acquire UAL Corp. , parent of United Airlines , spurred quick action on the legislation , [D1] [SS] introduced Wednesday [ES] and [SS] approved by the subcommittee on a voice vote yesterday [ES] [D1]  .
+---------
+The collapsed plan to acquire UAL Corp. , parent of United Airlines , spurred quick action on the legislation , introduced Wednesday .
+The collapsed plan to acquire UAL Corp. , parent of United Airlines , spurred quick action on the legislation , approved by the subcommittee on a voice vote yesterday .
+ND (together justify quick action,A and B => C)
+====================================================
+87.
+All the witnesses , both [D1] [SS] congressmen [ES] and [SS] industry experts [ES] [D1]  , expressed support for the bill in order to prevent profiteers from cashing in on airline profits at the expense of safe , cost-effective service .
+---------
+All the witnesses , both congressmen , expressed support for the bill in order to prevent profiteers from cashing in on airline profits at the expense of safe , cost-effective service .
+All the witnesses , both industry experts , expressed support for the bill in order to prevent profiteers from cashing in on airline profits at the expense of safe , cost-effective service .
+ND (together constitute an entity - "all the witnesses") (single entity)
+====================================================
+90.
+In a possible prelude to the resumption of talks between [D1] [SS] Boeing Co. [ES] and [SS] striking Machinists union members [ES] [D1]  , a federal mediator said representatives of the two sides will meet with him tomorrow .
+---------
+In a possible prelude to the resumption of talks between Boeing Co. , a federal mediator said representatives of the two sides will meet with him tomorrow .
+In a possible prelude to the resumption of talks between striking Machinists union members , a federal mediator said representatives of the two sides will meet with him tomorrow .
+ND (two entities together justify between)
+====================================================
+95.
+DPC , a group led by the New York investment firm Crescott Inc. , also said it plans to file preliminary materials with the [D1] [SS] Securities [ES] and [SS] Exchange [ES] [D1]  Commission regarding a shareholder solicitation to oust Dataproducts ' board .
+---------
+DPC , a group led by the New York investment firm Crescott Inc. , also said it plans to file preliminary materials with the Securities Commission regarding a shareholder solicitation to oust Dataproducts ' board .
+DPC , a group led by the New York investment firm Crescott Inc. , also said it plans to file preliminary materials with the Exchange Commission regarding a shareholder solicitation to oust Dataproducts ' board .
+ND (single entity)
+====================================================
+106.
+Investors may have reacted so strongly to Friday 's U.S. stock market loss because they had vivid memories of the Frankfurt exchange 's losing 35 % of its value in [D1] [SS] the 1987 crash [ES] and [SS] its wake [ES] [D1]  .
+---------
+Investors may have reacted so strongly to Friday 's U.S. stock market loss because they had vivid memories of the Frankfurt exchange 's losing 35 % of its value in the 1987 crash .
+Investors may have reacted so strongly to Friday 's U.S. stock market loss because they had vivid memories of the Frankfurt exchange 's losing 35 % of its value in its wake .
+ND (figure corresponds to both conjuncts together) (single entity)
+====================================================
+111.
+[D1] [SS] Attracted by low prices [ES] and [SS] encouraged by New York 's performance [ES] [D1]  , they scooped up equities across the board .
+---------
+Attracted by low prices , they scooped up equities across the board .
+encouraged by New York 's performance , they scooped up equities across the board .
+ND (A and B => C)
+====================================================
+112.
+Trading was driven primarily by small [D1] [SS] investors [ES] and [SS] speculators [ES] [D1]  , with large institutions waiting on the sidelines until late in the day .
+---------
+Trading was driven primarily by small investors , with large institutions waiting on the sidelines until late in the day .
+Trading was driven primarily by small speculators , with large institutions waiting on the sidelines until late in the day .
+ND (relation does not allow split)
+====================================================
+0.
+We have [D1] [SS] half the experts saying one thing [ES] and [SS] half the other [ES] [D1]  about the course of the economy .
+---------
+We have half the experts saying one thing about the course of the economy .
+We have half the other about the course of the economy .
+ND (idiom)
+====================================================
+13.
+[D1] [SS] Seoul [ES] and [SS] Pyongyang [ES] [D1]  reached a tentative agreement to allow visits between families on the divided Korean peninsula .
+---------
+Seoul reached a tentative agreement to allow visits between families on the divided Korean peninsula .
+Pyongyang reached a tentative agreement to allow visits between families on the divided Korean peninsula .
+ND (relation does not allow split, requires 2 parties)
+====================================================
+14.
+Differences remained between the [D1] [SS] North [ES] and [SS] South [ES] [D1]  Korean governments , however , over conditions for the exchanges .
+---------
+Differences remained between the North Korean governments , however , over conditions for the exchanges .
+Differences remained between the South Korean governments , however , over conditions for the exchanges .
+ND (between relation)
+====================================================
+15. - NO EXPERT AGREEMENT
+Freed black nationalists [D1] [SS] resumed political activity in South Africa [ES] and [SS] vowed to fight against apartheid [ES] [D1]  , raising fears of a possible white backlash .
+---------
+Freed black nationalists resumed political activity in South Africa , raising fears of a possible white backlash .
+Freed black nationalists vowed to fight against apartheid , raising fears of a possible white backlash .
+ND - discuss - a and b implies c structure, first sentence invalid after split (A and B => C)
+====================================================
+23.
+British retail sales volume [D1] [SS] rose a provisional 0.4 % in September from August [ES] and [SS] was up 2.2 % from September 1988 [ES] [D1]  , the Department of [D1] [SS] Trade [ES] and [SS] Industry [ES] [D1]  said .
+---------
+British retail sales volume rose a provisional 0.4 % in September from August , the Department of Trade said .
+British retail sales volume rose a provisional 0.4 % in September from August , the Department of Industry said .
+British retail sales volume was up 2.2 % from September 1988 , the Department of Trade said .
+British retail sales volume was up 2.2 % from September 1988 , the Department of Industry said .
+DIST - first conjunction
+ND - second conjunction (single entity)
+====================================================
+28.
+Mr. Farley followed a similar pattern when he [D1] [SS] acquired Northwest Industries Inc. [ES] and [SS] then sold much of its assets [ES] [D1]  .
+---------
+Mr. Farley followed a similar pattern when he acquired Northwest Industries Inc. .
+Mr. Farley followed a similar pattern when he then sold much of its assets .
+ND but MISIDENTIFIED conjuncts - then should not be part of conjunct 2 (a->b->c)
+====================================================
+30.
+Cluett was an independent company until West Point-Pepperell acquired it for $ 375 million in [D1] [SS] cash [ES] and [SS] stock [ES] [D1]  in 1986 .
+---------
+Cluett was an independent company until West Point-Pepperell acquired it for $ 375 million in cash in 1986 .
+Cluett was an independent company until West Point-Pepperell acquired it for $ 375 million in stock in 1986 .
+ND (relation does not allow split)
+====================================================
+34.
+Blue Arrow was able to pull off the $ 1.34 billion takeover of Manpower in 1987 largely because different [D1] [SS] British [ES] and [SS] American [ES] [D1]  accounting standards produce higher reported earnings for British companies .
+---------
+Blue Arrow was able to pull off the $ 1.34 billion takeover of Manpower in 1987 largely because different British accounting standards produce higher reported earnings for British companies .
+Blue Arrow was able to pull off the $ 1.34 billion takeover of Manpower in 1987 largely because different American accounting standards produce higher reported earnings for British companies .
+ND (relation does not allow split)
+====================================================
+36.
+But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both [D1] [SS] U.K. [ES] and [SS] U.S. [ES] [D1]  accounting standards .
+---------
+But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both U.K. accounting standards .
+But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both U.S. accounting standards .
+ND (relation does not allow split)
+====================================================
+43.
+Reaching that goal , says Robert T. Foote , Applied 's chief financial officer , will require [D1] [SS] efficient reinvestment of cash by Applied [ES] and [SS] continuation of its healthy 19 % rate of return on operating capital [ES] [D1]  .
+---------
+Reaching that goal , says Robert T. Foote , Applied 's chief financial officer , will require efficient reinvestment of cash by Applied .
+Reaching that goal , says Robert T. Foote , Applied 's chief financial officer , will require continuation of its healthy 19 % rate of return on operating capital .
+ND (A and B => C)
+====================================================

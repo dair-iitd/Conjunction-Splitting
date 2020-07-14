@@ -1,0 +1,380 @@
+Stats :
+Agreed Annotations:
+CORRECT = 43 conjunctions
+INCORRECT = 9 conjunctions
+
+Total Conjunctions = 55
+Inter-Annotator agreement = 52 (94%)
+
+====================================================
+0.
+We have [D1] [SS] half the experts saying one thing [ES] and [SS] half the other [ES] [D1]  about the course of the economy .
+---------
+We have half the experts saying one thing about the course of the economy .
+We have half the other about the course of the economy .
+INCORRECT
+====================================================
+1.
+Ralph Holzfaster , [D1] [SS] a farmer [ES] and [SS] farm-supply store operator [ES] [D1]  in Ogallala , Neb. , says of the last few days events , If anything good comes out of this , it might be that it puts some of these LBOs on the skids .
+---------
+Ralph Holzfaster , a farmer in Ogallala , Neb. , says of the last few days events , If anything good comes out of this , it might be that it puts some of these LBOs on the skids .
+Ralph Holzfaster , farm-supply store operator in Ogallala , Neb. , says of the last few days events , If anything good comes out of this , it might be that it puts some of these LBOs on the skids .
+CORRECT
+====================================================
+2.
+Says Gordon Fines , a money manager at IDS Financial Services in Minneapolis , [D1] [SS] You 're on a roller coaster [ES] , and [SS] that may last [ES] [D1]  .
+---------
+Says Gordon Fines , a money manager at IDS Financial Services in Minneapolis , You 're on a roller coaster .
+Says Gordon Fines , a money manager at IDS Financial Services in Minneapolis , that may last .
+CORRECT
+====================================================
+3.
+Skipper 's Inc. , Bellevue , Wash. , said it signed a definitive merger agreement for a National Pizza Corp. unit to acquire the 90.6 % of Skipper 's Inc. it does n't own for [D1] [SS] $ 11.50 a share [ES] , or [SS] about $ 28.1 million [ES] [D1]  .
+---------
+Skipper 's Inc. , Bellevue , Wash. , said it signed a definitive merger agreement for a National Pizza Corp. unit to acquire the 90.6 % of Skipper 's Inc. it does n't own for $ 11.50 a share .
+Skipper 's Inc. , Bellevue , Wash. , said it signed a definitive merger agreement for a National Pizza Corp. unit to acquire the 90.6 % of Skipper 's Inc. it does n't own for about $ 28.1 million .
+CORRECT
+====================================================
+4.
+Skipper 's said the merger will help finance [D1] [SS] remodeling [ES] and [SS] future growth [ES] [D1]  .
+---------
+Skipper 's said the merger will help finance remodeling .
+Skipper 's said the merger will help finance future growth .
+CORRECT
+====================================================
+5.
+[D1] [SS] Skipper 's previously turned down a $ 10-a-share proposal from National Pizza [ES] and [SS] Pizza Hut Inc. questioned whether the purchase would violate National Pizza 's franchise agreements [ES] [D1]  .
+---------
+Skipper 's previously turned down a $ 10-a-share proposal from National Pizza .
+Pizza Hut Inc. questioned whether the purchase would violate National Pizza 's franchise agreements .
+CORRECT
+====================================================
+6.
+For the 12 weeks ended Sept. 3 , Skipper 's had net income of [D1] [SS] $ 361,000 [ES] , or [SS] 13 cents a share [ES] [D1]  , compared with a net loss a year earlier .
+---------
+For the 12 weeks ended Sept. 3 , Skipper 's had net income of $ 361,000 , compared with a net loss a year earlier .
+For the 12 weeks ended Sept. 3 , Skipper 's had net income of 13 cents a share , compared with a net loss a year earlier .
+CORRECT
+====================================================
+7.
+At a meeting Friday , the Kremlin leader [D1] [SS] complained about recent articles that raised the possiblity of civil unrest [ES] , and [SS] accused the media of fueling panic buying of goods by publishing stories about impending shortages [ES] [D1]  .
+---------
+At a meeting Friday , the Kremlin leader complained about recent articles that raised the possiblity of civil unrest .
+At a meeting Friday , the Kremlin leader accused the media of fueling panic buying of goods by publishing stories about impending shortages .
+CORRECT
+====================================================
+8.
+House-Senate conferees approved a permanent smoking ban [D1] [SS] on domestic airline routes within the continental U.S. [ES] and [SS] on flights of less than six hours to [D2] [SS] Alaska [ES] and [SS] Hawaii [ES] [D2]  [ES] [D1]  .
+---------
+House-Senate conferees approved a permanent smoking ban on domestic airline routes within the continental U.S. .
+House-Senate conferees approved a permanent smoking ban on flights of less than six hours to [D2] [SS] Alaska [ES] and [SS] Hawaii [ES] [D2] .
+CORRECT - for both D1 and D2
+====================================================
+9.
+The curbs would [D1] [SS] cover all but a small percentage of flights [ES] , and [SS] represent an expansion of the current ban on flights of less than two hours [ES] [D1]  .
+---------
+The curbs would cover all but a small percentage of flights .
+The curbs would represent an expansion of the current ban on flights of less than two hours .
+CORRECT
+====================================================
+10.
+E. Robert Wallach was [D1] [SS] sentenced by a U.S. judge in New York to six years in prison [ES] and [SS] fined $ 250,000 for his racketeering conviction in the Wedtech scandal [ES] [D1]  .
+---------
+E. Robert Wallach was sentenced by a U.S. judge in New York to six years in prison .
+E. Robert Wallach was fined $ 250,000 for his racketeering conviction in the Wedtech scandal .
+CORRECT
+====================================================
+11.
+[D1] [SS] NASA resumed the countdown for today 's launch of the space shuttle Atlantis [ES] , and [SS] a federal appeals court in Washington dismissed a lawsuit by anti-nuclear groups to delay the flight because the plutonium-powered Galileo space probe was aboard [ES] [D1]  .
+---------
+NASA resumed the countdown for today 's launch of the space shuttle Atlantis .
+a federal appeals court in Washington dismissed a lawsuit by anti-nuclear groups to delay the flight because the plutonium-powered Galileo space probe was aboard .
+CORRECT
+====================================================
+12.
+The space agency said it did n't expect [D1] [SS] weather [ES] or [SS] protesters [ES] [D1]  to block the liftoff .
+---------
+The space agency said it did n't expect weather to block the liftoff .
+The space agency said it did n't expect protesters to block the liftoff .
+CORRECT
+====================================================
+13.
+They [D1] [SS] announced a reduction in formalities for travel [ES] , but [SS] did n't show any real signs of resuming full diplomatic ties [ES] [D1]  .
+---------
+They announced a reduction in formalities for travel .
+They did n't show any real signs of resuming full diplomatic ties .
+CORRECT - Discuss
+====================================================
+13.
+[D1] [SS] Seoul [ES] and [SS] Pyongyang [ES] [D1]  reached a tentative agreement to allow visits between families on the divided Korean peninsula .
+---------
+Seoul reached a tentative agreement to allow visits between families on the divided Korean peninsula .
+Pyongyang reached a tentative agreement to allow visits between families on the divided Korean peninsula .
+INCORRECT
+====================================================
+14.
+Differences remained between the [D1] [SS] North [ES] and [SS] South [ES] [D1]  Korean governments , however , over conditions for the exchanges .
+---------
+Differences remained between the North Korean governments , however , over conditions for the exchanges .
+Differences remained between the South Korean governments , however , over conditions for the exchanges .
+INCORRECT
+====================================================
+15. - NO EXPERT AGREEMENT
+Freed black nationalists [D1] [SS] resumed political activity in South Africa [ES] and [SS] vowed to fight against apartheid [ES] [D1]  , raising fears of a possible white backlash .
+---------
+Freed black nationalists resumed political activity in South Africa , raising fears of a possible white backlash .
+Freed black nationalists vowed to fight against apartheid , raising fears of a possible white backlash .
+INCORRECT - discuss - a and b implies c structure, first sentence invalid after split
+====================================================
+16.
+The nation 's main white opposition party warned that the government 's release Sunday of eight black political prisoners risked bringing [D1] [SS] chaos [ES] and [SS] eventual black Marxist rule [ES] [D1]  to the nation .
+---------
+The nation 's main white opposition party warned that the government 's release Sunday of eight black political prisoners risked bringing chaos to the nation .
+The nation 's main white opposition party warned that the government 's release Sunday of eight black political prisoners risked bringing eventual black Marxist rule to the nation .
+CORRECT
+====================================================
+17.
+The White House said Bush is fully satisfied with [D1] [SS] CIA Director Webster [ES] and [SS] the intelligence agency 's performance during the Oct. 3 failed coup in Panama [ES] [D1]  .
+---------
+The White House said Bush is fully satisfied with CIA Director Webster .
+The White House said Bush is fully satisfied with the intelligence agency 's performance during the Oct. 3 failed coup in Panama .
+CORRECT
+====================================================
+18.
+The Washington Post reported that unidentified senior administration officials [D1] [SS] were frustrated with Webster 's low-profile activities during the insurrection [ES] and [SS] wanted him replaced [ES] [D1]  .
+---------
+The Washington Post reported that unidentified senior administration officials were frustrated with Webster 's low-profile activities during the insurrection .
+The Washington Post reported that unidentified senior administration officials wanted him replaced .
+CORRECT
+====================================================
+19.
+A spokesman said the guerrillas would present a cease-fire proposal during the negotiations in Costa Rica that includes [D1] [SS] constitutional [ES] and [SS] economic [ES] [D1]  changes .
+---------
+A spokesman said the guerrillas would present a cease-fire proposal during the negotiations in Costa Rica that includes constitutional changes .
+A spokesman said the guerrillas would present a cease-fire proposal during the negotiations in Costa Rica that includes economic changes .
+CORRECT
+====================================================
+20.
+The State Department [D1] [SS] said there was a possibility that some Nicaraguan rebels were selling their U.S.-supplied arms to Salvadoran guerrillas [ES] , but [SS] insisted it was n't an organized effort [ES] [D1]  .
+---------
+The State Department said there was a possibility that some Nicaraguan rebels were selling their U.S.-supplied arms to Salvadoran guerrillas .
+The State Department insisted it was n't an organized effort .
+CORRECT
+====================================================
+21.
+Died : Cornel Wilde , 74 , [D1] [SS] actor [ES] and [SS] director [ES] [D1]  , in Los Angeles , of leukemia ... .
+---------
+Died : Cornel Wilde , 74 , actor , in Los Angeles , of leukemia ... .
+Died : Cornel Wilde , 74 , director , in Los Angeles , of leukemia ... .
+CORRECT
+====================================================
+22.
+Danilo Kis , 54 , Yugoslav-born [D1] [SS] novelist [ES] and [SS] essayist [ES] [D1]  , Sunday , in Paris , of cancer .
+---------
+Danilo Kis , 54 , Yugoslav-born novelist , Sunday , in Paris , of cancer .
+Danilo Kis , 54 , Yugoslav-born essayist , Sunday , in Paris , of cancer .
+CORRECT
+====================================================
+23.
+British retail sales volume [D1] [SS] rose a provisional 0.4 % in September from August [ES] and [SS] was up 2.2 % from September 1988 [ES] [D1]  , the Department of [D1] [SS] Trade [ES] and [SS] Industry [ES] [D1]  said .
+---------
+British retail sales volume rose a provisional 0.4 % in September from August , the Department of Trade said .
+British retail sales volume rose a provisional 0.4 % in September from August , the Department of Industry said .
+British retail sales volume was up 2.2 % from September 1988 , the Department of Trade said .
+British retail sales volume was up 2.2 % from September 1988 , the Department of Industry said .
+CORRECT - first conjunction
+INCORRECT - second conjunction
+====================================================
+24.
+For the three months ended in September , retail sales volume was [D1] [SS] down 0.5 % from the previous three months [ES] and [SS] up 1.2 % from a year earlier [ES] [D1]  .
+---------
+For the three months ended in September , retail sales volume was down 0.5 % from the previous three months .
+For the three months ended in September , retail sales volume was up 1.2 % from a year earlier .
+CORRECT
+====================================================
+25.
+Shortly after completing the $ 1.56 billion acquisition of West Point-Pepperell Inc. in April , Mr. Farley 's holding company , Farley Inc. , said it was considering the sale of Cluett , [D1] [SS] a leading shirt maker [ES] and [SS] one of West Point-Pepperell 's biggest units [ES] [D1]  .
+---------
+Shortly after completing the $ 1.56 billion acquisition of West Point-Pepperell Inc. in April , Mr. Farley 's holding company , Farley Inc. , said it was considering the sale of Cluett , a leading shirt maker .
+Shortly after completing the $ 1.56 billion acquisition of West Point-Pepperell Inc. in April , Mr. Farley 's holding company , Farley Inc. , said it was considering the sale of Cluett , one of West Point-Pepperell 's biggest units .
+CORRECT
+====================================================
+26.
+Included in the sale are Cluett units that [D1] [SS] make men 's shirts under the Arrow name [ES] , [SS] socks under the Gold Toe name [ES] and [SS] menswear through the Schoeneman division [ES] [D1]  .
+---------
+Included in the sale are Cluett units that make men 's shirts under the Arrow name .
+Included in the sale are Cluett units that socks under the Gold Toe name .
+Included in the sale are Cluett units that menswear through the Schoeneman division .
+CORRECT
+====================================================
+27.
+The companies said the agreement is subject [D1] [SS] to Bidermann 's receipt of financing [ES] and [SS] to [D2] [SS] regulatory [ES] and [SS] other [ES] [D2]  approvals [ES] [D1]  .
+---------
+The companies said the agreement is subject to Bidermann 's receipt of financing .
+The companies said the agreement is subject to [D2] [SS] regulatory [ES] and [SS] other [ES] [D2] approvals .
+CORRECT - splits at both depths
+====================================================
+28.
+Mr. Farley followed a similar pattern when he [D1] [SS] acquired Northwest Industries Inc. [ES] and [SS] then sold much of its assets [ES] [D1]  .
+---------
+Mr. Farley followed a similar pattern when he acquired Northwest Industries Inc. .
+Mr. Farley followed a similar pattern when he then sold much of its assets .
+INCORRECT split but MISIDENTIFIED conjuncts - then should not be part of conjunct 2
+====================================================
+29.
+But he kept Fruit of the Loom Inc. , the underwear maker that he still [D1] [SS] controls [ES] and [SS] serves as [D2] [SS] chairman [ES] and [SS] chief executive [ES] [D2]  [ES] [D1]  .
+---------
+But he kept Fruit of the Loom Inc. , the underwear maker that he still controls .
+But he kept Fruit of the Loom Inc. , the underwear maker that he still serves as [D2] [SS] chairman [ES] and [SS] chief executive [ES] [D2] .
+CORRECT - both splits
+====================================================
+30.
+Cluett was an independent company until West Point-Pepperell acquired it for $ 375 million in [D1] [SS] cash [ES] and [SS] stock [ES] [D1]  in 1986 .
+---------
+Cluett was an independent company until West Point-Pepperell acquired it for $ 375 million in cash in 1986 .
+Cluett was an independent company until West Point-Pepperell acquired it for $ 375 million in stock in 1986 .
+INCORRECT
+====================================================
+31.
+Bidermann sells clothes under various labels , including [D1] [SS] Yves Saint Laurent [ES] and [SS] Bill Robinson for men [ES] and [SS] Ralph Lauren for women [ES] [D1]  .
+---------
+Bidermann sells clothes under various labels , including Yves Saint Laurent .
+Bidermann sells clothes under various labels , including Bill Robinson for men .
+Bidermann sells clothes under various labels , including Ralph Lauren for women .
+CORRECT
+====================================================
+32.
+Britain 's Blue Arrow PLC intends to [D1] [SS] change its name to Manpower PLC [ES] and [SS] write off a chunk of the nearly $ 1.2 billion in good will realized in the takeover of U.S.-based Manpower Inc [ES] [D1]  .
+---------
+Britain 's Blue Arrow PLC intends to change its name to Manpower PLC .
+Britain 's Blue Arrow PLC intends to write off a chunk of the nearly $ 1.2 billion in good will realized in the takeover of U.S.-based Manpower Inc .
+CORRECT
+====================================================
+33.
+The [D1] [SS] name change [ES] and [SS] good will [ES] [D1]  write-off could help [D1] [SS] solidify Blue Arrow 's dominance of the U.S. temporary-help market [ES] and [SS] give it a more American image [ES] [D1]  as U.S. investors turn jittery about foreign stocks after Friday 's market plunge .
+---------
+The name change write-off could help solidify Blue Arrow 's dominance of the U.S. temporary-help market as U.S. investors turn jittery about foreign stocks after Friday 's market plunge .
+The name change write-off could help give it a more American image as U.S. investors turn jittery about foreign stocks after Friday 's market plunge .
+The good will write-off could help solidify Blue Arrow 's dominance of the U.S. temporary-help market as U.S. investors turn jittery about foreign stocks after Friday 's market plunge .
+The good will write-off could help give it a more American image as U.S. investors turn jittery about foreign stocks after Friday 's market plunge .
+CORRECT, MISIDENTIFIED - "good will write-off" should be conjunct 2 - discuss
+====================================================
+34.
+Blue Arrow was able to pull off the $ 1.34 billion takeover of Manpower in 1987 largely because different [D1] [SS] British [ES] and [SS] American [ES] [D1]  accounting standards produce higher reported earnings for British companies .
+---------
+Blue Arrow was able to pull off the $ 1.34 billion takeover of Manpower in 1987 largely because different British accounting standards produce higher reported earnings for British companies .
+Blue Arrow was able to pull off the $ 1.34 billion takeover of Manpower in 1987 largely because different American accounting standards produce higher reported earnings for British companies .
+INCORRECT
+====================================================
+35. - NO EXPERT AGREEMENT
+Good will is the excess of cost of an [D1] [SS] acquired firm [ES] , [SS] operating unit [ES] or [SS] assets [ES] [D1]  over the [D1] [SS] current [ES] or [SS] fair [ES] [D1]  market value of those assets .
+---------
+Good will is the excess of cost of an acquired firm over the current market value of those assets .
+Good will is the excess of cost of an acquired firm over the fair market value of those assets .
+Good will is the excess of cost of an operating unit over the current market value of those assets .
+Good will is the excess of cost of an operating unit over the fair market value of those assets .
+Good will is the excess of cost of an assets over the current market value of those assets .
+Good will is the excess of cost of an assets over the fair market value of those assets .
+CORRECT - first split
+CORRECT - second split
+====================================================
+36.
+But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both [D1] [SS] U.K. [ES] and [SS] U.S. [ES] [D1]  accounting standards .
+---------
+But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both U.K. accounting standards .
+But with so many shares now held in the U.S. , Blue Arrow reports its earnings two ways , based on both U.S. accounting standards .
+INCORRECT
+====================================================
+37.
+Mr. Fromstein [D1] [SS] said he hopes to eradicate some of the good will left on Blue Arrow 's U.S. books in one fell swoop [ES] , but [SS] would n't specify how much [ES] [D1]  .
+---------
+Mr. Fromstein said he hopes to eradicate some of the good will left on Blue Arrow 's U.S. books in one fell swoop .
+Mr. Fromstein would n't specify how much .
+CORRECT
+====================================================
+38.
+Barry Wright , acquired by Applied for $ 147 million , makes [D1] [SS] computer-room equipment [ES] and [SS] vibration-control systems [ES] [D1]  .
+---------
+Barry Wright , acquired by Applied for $ 147 million , makes computer-room equipment .
+Barry Wright , acquired by Applied for $ 147 million , makes vibration-control systems .
+CORRECT
+====================================================
+39.
+[D1] [SS] The Watertown , Mass. , company 's sales have been dormant [ES] and [SS] its profits have dropped [ES] [D1]  .
+---------
+The Watertown , Mass. , company 's sales have been dormant .
+its profits have dropped .
+CORRECT
+====================================================
+40.
+Besides spurring Barry Wright 's sales , which were $ 201.7 million in 1988 , Mr. Sim must pare its [D1] [SS] costs [ES] and [SS] product line [ES] [D1]  .
+---------
+Besides spurring Barry Wright 's sales , which were $ 201.7 million in 1988 , Mr. Sim must pare its costs .
+Besides spurring Barry Wright 's sales , which were $ 201.7 million in 1988 , Mr. Sim must pare its product line .
+CORRECT
+====================================================
+41.
+[D1] [SS] The Butler , Wis. , manufacturer went public at $ 15.75 a share in August 1987 [ES] , and [SS] Mr. Sim 's goal then was a $ 29 per-share price by 1992 [ES] [D1]  .
+---------
+The Butler , Wis. , manufacturer went public at $ 15.75 a share in August 1987 .
+Mr. Sim 's goal then was a $ 29 per-share price by 1992 .
+CORRECT
+====================================================
+42.
+The stock has since softened , [D1] [SS] trading around $ 25 a share last week [ES] and [SS] closing yesterday at $ 23.00 in national over-the-counter trading [ES] [D1]  .
+---------
+The stock has since softened , trading around $ 25 a share last week .
+The stock has since softened , closing yesterday at $ 23.00 in national over-the-counter trading .
+CORRECT
+====================================================
+43.
+Reaching that goal , says Robert T. Foote , Applied 's chief financial officer , will require [D1] [SS] efficient reinvestment of cash by Applied [ES] and [SS] continuation of its healthy 19 % rate of return on operating capital [ES] [D1]  .
+---------
+Reaching that goal , says Robert T. Foote , Applied 's chief financial officer , will require efficient reinvestment of cash by Applied .
+Reaching that goal , says Robert T. Foote , Applied 's chief financial officer , will require continuation of its healthy 19 % rate of return on operating capital .
+INCORRECT
+====================================================
+44.
+In Barry Wright , Mr. Sim sees a situation very similar to the one he faced when he joined Applied as [D1] [SS] president [ES] and [SS] chief operating officer [ES] [D1]  in 1985 .
+---------
+In Barry Wright , Mr. Sim sees a situation very similar to the one he faced when he joined Applied as president in 1985 .
+In Barry Wright , Mr. Sim sees a situation very similar to the one he faced when he joined Applied as chief operating officer in 1985 .
+CORRECT
+====================================================
+45.
+While profitable , it [D1] [SS] was n't growing [ES] and [SS] was n't providing a satisfactory return on invested capital [ES] [D1]  , he says .
+---------
+While profitable , it was n't growing , he says .
+While profitable , it was n't providing a satisfactory return on invested capital , he says .
+CORRECT
+====================================================
+46.
+He also professes an evangelical fervor to develop a corporate culture [D1] [SS] that rewards managers who produce [ES] and [SS] where decision-making is shared [ES] [D1]  .
+---------
+He also professes an evangelical fervor to develop a corporate culture that rewards managers who produce .
+He also professes an evangelical fervor to develop a corporate culture where decision-making is shared .
+CORRECT
+====================================================
+47.
+Mr. Sim [D1] [SS] considers the new unit 's operations fundamentally sound [ES] and [SS] adds that Barry Wright has been fairly successful in moving into markets that have n't interested larger competitors [ES] [D1]  .
+---------
+Mr. Sim considers the new unit 's operations fundamentally sound .
+Mr. Sim adds that Barry Wright has been fairly successful in moving into markets that have n't interested larger competitors .
+CORRECT
+====================================================
+48.
+He was [D1] [SS] named chief executive officer of Applied in 1986 [ES] and [SS] became chairman last November [ES] [D1]  .
+---------
+He was named chief executive officer of Applied in 1986 .
+He was became chairman last November .
+CORRECT
+====================================================
+49.
+The company expects that earnings , which have marched steadily upward in recent years , reached [D1] [SS] about $ 20.8 million [ES] , or [SS] $ 1.58 a share [ES] [D1]  , in the fiscal year just ended , up [D1] [SS] from $ 15.2 million in fiscal 1988 [ES] and [SS] $ 3.9 million in 1985 [ES] [D1]  .
+---------
+The company expects that earnings , which have marched steadily upward in recent years , reached about $ 20.8 million , in the fiscal year just ended , up from $ 15.2 million in fiscal 1988 .
+The company expects that earnings , which have marched steadily upward in recent years , reached about $ 20.8 million , in the fiscal year just ended , up $ 3.9 million in 1985 .
+The company expects that earnings , which have marched steadily upward in recent years , reached $ 1.58 a share , in the fiscal year just ended , up from $ 15.2 million in fiscal 1988 .
+The company expects that earnings , which have marched steadily upward in recent years , reached $ 1.58 a share , in the fiscal year just ended , up $ 3.9 million in 1985 .
+CORRECT - both splits
+====================================================
